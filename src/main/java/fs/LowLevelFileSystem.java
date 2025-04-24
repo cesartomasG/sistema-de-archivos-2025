@@ -7,7 +7,7 @@ import java.util.function.Consumer;
  * y cerrar archivos binarios, y leer y escribir en ellos en bloques.
  * <p>
  * La escritura es siempre sincrónica. La lectura puede ser sincrónica o
- * asincrónica, según que método se utilice
+ * asincrónica, según que metodo se utilice
  */
 public interface LowLevelFileSystem {
 
